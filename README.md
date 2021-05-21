@@ -2,7 +2,7 @@
 Activity in Microprocessor
 
 
-2-digit count up and down counter with reset button. 
+2-digit up and down counter with reset button. 
 
 
 
