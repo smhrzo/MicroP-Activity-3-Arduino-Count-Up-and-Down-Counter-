@@ -3,3 +3,16 @@ Activity in Microprocessor
 
 
 2-digit count up and down counter with reset button. 
+
+
+
+
+
+
+
+
+
+
+
+
+By: Angeli L.
